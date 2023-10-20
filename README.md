@@ -1,4 +1,4 @@
 # kiran-demo
 This is my first Git Repository.
 <br>
-Author - Kiran Kumar
+Author - Kiran Kumar Maddula
